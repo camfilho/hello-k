@@ -1,0 +1,23 @@
+# Gradle
+.gradle/
+build/
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# macOS
+.DS_Store
+
+# Compiled files
+*.class
+*.jar
+*.war
+
+# Logs
+*.log
+
+# Claude
+.claude/
